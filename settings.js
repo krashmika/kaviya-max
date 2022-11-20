@@ -11,7 +11,7 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤මම ඔන්ලයින් ඉන්නවා බ්‍රෝ ඉතින් කොහොමද උබට හොදින්න අනේ මන් ඔයාගෙන් පොඩි උදව්වක් ඉල්ලනවා මගේ group එකේ ලින්ක් එක shir කරලා දෙන්නකෝ please 😭 මෙන්න මගේ group එකේ ලින්ක් එක 🥰𝗚𝗥𝗢𝗨𝗣 𝗟𝗜𝗡𝗞🥰https://chat.whatsapp.com/DrGsubrdgnPILMqgj1iOOD  
+global.alivemsg = `💥මම ඔන්ලයින් ඉන්නවා බ්‍රෝ ඉතින් කොහොමද උබට හොදින්න අනේ මන් ඔයාගෙන් පොඩි උදව්වක් ඉල්ලනවා මගේ group එකේ ලින්ක් එක shir කරලා දෙන්නකෝ please 😭 මෙන්න මගේ group එකේ ලින්ක් එක 🥰𝗚𝗥𝗢𝗨𝗣 𝗟𝗜𝗡𝗞🥰https://chat.whatsapp.com/DrGsubrdgnPILMqgj1iOOD  
 ╔══╗
 
 ║██║
